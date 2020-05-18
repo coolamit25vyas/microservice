@@ -1,0 +1,5 @@
+microservice2\config\EchoConfig.class
+microservice2\SpanExtractor\CustomHttpServletRequestSpanExtractor.class
+microservice2\SpanExtractor\CustomHttpServletResponseSpanInjector.class
+microservice2\controller\Microservice2Controller.class
+microservice2\Microservice2Application.class
